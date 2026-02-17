@@ -1,4 +1,4 @@
-<img src="https://www.ideagen.com/media/11748/grc-circle.png" width="300" class="center">
+Comply is a SOC2<riskquant is a pythonRisk Management Toolsimg src="https://www.ideagen.com/media/11748/grc-circle.png" width="300" class="center">
 
 # :tada: Grand Repository Challenge accepted!
 
@@ -185,9 +185,11 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 # :books: Books
 
-* [**Security Risk Management**, *Evan Wheeler*, 2011](https://learning.oreilly.com/library/view/security-risk-management/9781597496155/)
-  * Often part of reading lists at universities, this is your first stop in security risk management. This book is both comprehensive, timeless and accessible
-  * Great for referencing, it will help you assess and improve your internal risk management program. Focus on the **Action Plans** at the end of each chapter for some great takeaways
+
+### KYC Analyst
+
+[KYC Analyst](https://github.com/vyayasan/kyc-analyst) - Open-source KYC/AML compliance automation plugin for Claude Cowork, Claude Code, or any Claude client. Features 17 mandatory human-in-the-loop checkpoints, deterministic risk scoring, and free public data sources (OFAC, UN, Companies House). Pilot results: 27 minutes per case vs. 95 minutes manual, eliminates $10K-$100K+/year vendor costs. MIT licensed, zero vendor lock-in.
+### CISO Assistant  * Great for referencing, it will help you assess and improve your internal risk management program. Focus on the **Action Plans** at the end of each chapter for some great takeaways
 
 * [**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
   * The FAIR book itself. Self explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
